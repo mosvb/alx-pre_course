@@ -1,1 +1,2 @@
-My first readme rasta
+My first readme 
+README update form github.com
